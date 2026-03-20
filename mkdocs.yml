@@ -1,0 +1,8 @@
+site_name: Barnaul Fridge
+nav:
+  - Home: index.md
+  - Guide: guide.md
+  - About: about.md
+
+theme:
+  name: material
