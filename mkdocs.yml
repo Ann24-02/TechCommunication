@@ -1,4 +1,4 @@
-site_name: TechCommunication
+site_name: file_organizer
 nav:
   - Home: index.md
   - Guide: guide.md
